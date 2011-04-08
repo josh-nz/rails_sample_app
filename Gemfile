@@ -7,6 +7,7 @@ gem 'rails', '3.0.5'
 
 gem 'sqlite3'
 gem 'gravatar_image_tag'
+gem 'thin'
 
 # Use unicorn as the web server
 # gem 'unicorn'
