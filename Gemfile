@@ -9,6 +9,7 @@ gem 'sqlite3'
 gem 'gravatar_image_tag'
 gem 'thin'
 gem 'will_paginate', '~> 3.0.pre2'
+gem 'faker'
 
 # Use unicorn as the web server
 # gem 'unicorn'
@@ -33,7 +34,6 @@ group :development do
 	gem 'rspec-rails'
 	gem 'awesome_print'
 	gem 'annotate-models'
-	gem 'faker'
 end
 
 group :test do
